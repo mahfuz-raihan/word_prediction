@@ -1,2 +1,4 @@
 # word_prediction
-This is a prototype project combination of NLP and Deep Learning.
+
+Framework used: Pytorch
+Algorithm: LSTM (Long short-term Memeory)
