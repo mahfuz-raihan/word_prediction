@@ -4,5 +4,5 @@ inflect==7.3.0
 matplotlib==3.9.0
 numpy==1.24.2
 pandas==2.2.2
-torch==2.0.0
-torchtext==0.6.0
+torch==2.0.1
+torchtext==0.15.0
